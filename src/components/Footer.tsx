@@ -40,7 +40,7 @@ const Footer: React.FC = () => {
 
         {/* Garis (Hanya ditampilkan di Desktop) */}
         <div className="hidden md:block">
-          <hr className="border-t border-[#EAEEF3] mb-8 pb-8" style={{ maxWidth: '1400px', margin: '0 auto' }} />
+          <hr className="border-t border-[#EAEEF3] mb-8 pb-8" style={{ maxWidth: '1500px', margin: '0 auto' }} />
         </div>
 
         {/* Bagian Tengah: Links */}

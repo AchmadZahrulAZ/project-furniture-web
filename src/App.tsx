@@ -6,7 +6,7 @@ import Home from './pages/Home';
 
 const App: React.FC = () => {
   return (
-    <div className="pt-14">
+    <div>
       <Router>
         <Navbar />
         <Routes>
